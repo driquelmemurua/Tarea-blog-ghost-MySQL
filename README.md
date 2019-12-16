@@ -9,6 +9,6 @@ Luego de clonado el repositorio y dentro de la carpeta ejecute
 ```
 $ docker-compose -p "ghost-platform" up -d
 ```
-Se levantará primero el contendor con la instancia de MySQL seguido del contenedor con ls instancia de Ghost.
+Se levantará primero el contendor con la instancia de MySQL seguido del contenedor con la instancia de Ghost.
 Luego de eso uno puede acceder al blog ingresando a [localhost](http://localhost) desde el navegador.
 
